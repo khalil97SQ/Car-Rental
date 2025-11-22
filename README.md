@@ -1,6 +1,6 @@
 # 🚗 AutoRent - Car Rental Website
 
-<img src="CarRental.png" alt="CarRental Screenshot" width="600px">
+<img src="./CarRental.jpeg" alt="CarRental Screenshot" width="600px">
 
 ## Overview
 

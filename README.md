@@ -1,12 +1,44 @@
-# React + Vite
+# 🚗 AutoRent - Car Rental Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="CarRental.png" alt="CarRental Screenshot" width="600px">
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**AutoRent** is a modern car rental website that allows users to find, browse, and book rental cars easily.  
+It features a wide selection of vehicles, premium services, and detailed car information to ensure a smooth rental experience.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Home page with featured cars and rental search.
+- Browse cars by type: SUVs, Sedans, Luxury, Electric, and more.
+- Car details including seats, transmission, fuel type, and additional features.
+- Booking functionality (UI only).
+- Information about insurance coverage and rental benefits.
+- Contact section with location, email, and phone.
+- Fully responsive design.
+
+## Pages & Sections
+
+1. **Home**
+   - Welcome message: _"Find Your Perfect Rental Car"_
+   - Car search form: Pickup location, date, and time.
+   - Statistics: Premium cars, locations, support, satisfaction.
+2. **Cars**
+   - Featured cars with details and pricing per day.
+   - View all cars option.
+3. **About**
+   - Company history and commitment to customers.
+4. **Contact**
+   - Address, phone, email, and contact form.
+5. **Additional Sections**
+   - Why Choose AutoRent
+   - Fully Insured vehicles
+   - Quick Links: Terms & Conditions, Services
+
+## Installation
+
+1. Download or clone the project:
+
+```bash
+git clone https://github.com/khalil97SQ/Car-Rental.git
+```

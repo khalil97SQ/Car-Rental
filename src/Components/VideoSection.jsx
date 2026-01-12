@@ -42,7 +42,7 @@ const VideoSection = () => {
               <div className="aspect-w-16 aspect-h-9 h-[400px] w-full">
                 {/* iframe => "Video Link" */}
                 <iframe
-                  src="https://www.youtube.com/embed/b_8fHNIHFk4?si=WcC1fUCGv4tWAKWD"
+                  src=""
                   title="YouTube video player"
                   frameborder="0"
                   allow=""
